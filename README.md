@@ -37,7 +37,7 @@ Git · GitHub · VS Code · Linux · Docker · Postman · Figma · MongoDB · Fi
 ### 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/feritoflaz)  
 - 🧑‍💻 [GitHub](https://github.com/FeritOflaz)  
-- 📧 **feritoflaz@example.com**
+- 📧 **mhferit@gmail.com**
 
 ---
 
